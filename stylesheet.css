@@ -1,6 +1,10 @@
 body {
   background-color: #FFEFD5;
 }
+.header-logo{
+  font-size: 40px;
+  
+}
 .header{
   background-color: #FFEFD5;
   color: #fff;
